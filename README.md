@@ -1,6 +1,6 @@
-1. Contur_internship.ipynb - основной файл, в котором содержится весь путь проведения исследования и обработки данных,
-   обчения и сравнения моделей.
+## Test task for an internship in the company "Contour"
 
-2. model.h5 - обученная нейросеть, с помощью которой сделаны итоговые предсказания.
+Task: need to train a binary classification model to determine if news headlines are fake
 
-3. Tar-архив navec - используется в процессе исследования.
+ - Contur_internship.ipynb - main file, which contains the whole path of research and data processing,
+    	training and comparison of different models.
